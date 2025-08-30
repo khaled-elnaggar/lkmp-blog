@@ -5,6 +5,9 @@ layout: default
 
 # My Linux Kernel Bug Fixing Mentorship Journey
 
+* TOC
+{:toc}
+
 ## Introduction
 
 I joined the Linux Kernel Bug Fixing Mentorship to gain real experience contributing to the kernel, understand how development happens on LKML, and get comfortable with debugging workflows. Over the weeks I submitted small cleanup patches, attempted syzbot reports, and learned to navigate both the codebase and the community.
